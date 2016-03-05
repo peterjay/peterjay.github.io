@@ -1,18 +1,19 @@
 # Dependencies
 markdown:            redcarpet
 highlighter:         pygments
+gems:                [jekyll-paginate]
 
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
+#relative_permalinks: true
 
 # Setup
 title:               Peter Jankovics
 tagline:             'A fairly technical personal blog'
 description:         ''
-url:                 http://bitburn.net
+url:                 http://www.bitburn.net
 baseurl:             /
 paginate:            5
 
