@@ -1,5 +1,7 @@
 # Dependencies
 gems:                [jekyll-paginate]
+markdown:            redcarpet
+highlighter:         pygments
 
 # Permalinks
 #
@@ -8,9 +10,9 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               BitBurn
-tagline:             'A fairly technical personal blog'
-description:         'About stuff'
+title:               'bitburn.net'
+tagline:             'by Peter Jay'
+description:         'I am Peter: a developer, geek, travel and car enthusiast. This is my blog'
 url:                 http://www.bitburn.net
 baseurl:             /
 paginate:            5
