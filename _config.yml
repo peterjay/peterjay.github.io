@@ -1,6 +1,4 @@
 # Dependencies
-markdown:            redcarpet
-highlighter:         pygments
 gems:                [jekyll-paginate]
 
 # Permalinks
@@ -10,11 +8,11 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               Peter Jankovics
+title:               BitBurn
 tagline:             'A fairly technical personal blog'
-description:         ''
+description:         'About stuff'
 url:                 http://www.bitburn.net
-baseurl:             /
+baseurl:             ''
 paginate:            5
 
 # About/contact
