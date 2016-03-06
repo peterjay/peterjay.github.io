@@ -25,3 +25,9 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+# Github repo
+github:
+  repo:              https://github.com/peterjay/peterjay.github.io
+
+google_analytics:    UA-74717352-1
