@@ -3,28 +3,24 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hey there, I am Peter! 😊
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I'm a developer, geek, travel and car enthusiast living and working just outside of the European Union in [Subotica, Serbia](https://en.wikipedia.org/wiki/Subotica). I have a fiancée and a happy life, *especially* when the work-life balance is properly prioritized.
 
-There are currently two themes built on Poole:
+I have started working with computers (assembling desktop PCs for friends and myself) and designing websites (for myself and later for clients as well) at the age of 14 or 15. Web design and computer programming was a great interest of mine, and apparently a great fit for me. I knew early on that *this* is my thing and this is what I should be doing. Fast forward a decade and a half and I am still doing more or less the very same thing (just the balance between managing and *doing* is skewed a bit to my disliking).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I also love to travel - I have been lucky enough to visit England, France, Spain, Italy, Germany, Austria, Sweden, Poland, Czech Republic, Slovakia, Greece, Cyprus, Monaco, Slovenia and all countries around Serbia (except for Bulgaria). Yes, this item is on my *bucket list* - to travel as much as possible.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## About this blog
 
-## Setup
+This blog is supposed to be a medium for my thoughts when I am frustrated or happy about something or just for stuff I feel like sharing. Although I am present on Facebook or Twitter I am not really active in expressing my thoughts on those - this blog should be the place for that.
 
-Some fun facts about the setup of this project include:
+I should have rolled my own blog engine to power this site, but I went the high road instead - it is powered by GitHub pages. I used Jekyll to convert the Markdown-formatted content to a static HTML site and used the wonderful [Lanyon theme](https://github.com/poole/lanyon). This way I don't need to worry setting up a VPS, configuring web servers, worrying about hackers, etc. HTML files for GitHub and peace of mind for the developer 🙂.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+English is not my mother tongue; please excuse any grammar and/or spelling mistakes or typos on my part. I tend to make typos frequently (due to typing fast), but being a perfectionist, I try to fix them all before hitting the Enter key. Anyway, [pull requests](https://github.com/peterjay/peterjay.github.io) for fixing grammar errors are more than appreciated.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Links to Amazon might be affiliate links.
 
-Thanks for reading!
+-----
+
+**Please note:** The views on this site are my own and don't necessarily represent the views of my employer.
